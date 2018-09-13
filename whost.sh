@@ -4,7 +4,7 @@ then
 echo -e "<=== #################################### ===>\n"
 echo -e "Buscando Hosts..."
 echo -e "Exemplo uso da Ferramenta :"
-echo -e "/DesecParse.sh www.alvo.com.br\n"
+echo -e "/whost.sh www.alvo.com.br\n"
 echo -e "<=== #################################### ===>\n"
 else
 mkdir -p -v /Documentos/Parsing/$1/
